@@ -5,15 +5,15 @@
   - [Как в JS определяют тип переменой?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/JSCheckVariableType.md)
   - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_1_var/Examples)
 - Объекты в JS:
-  - Объекты в JavaScript.
-  - Методы объектов в JavaScript.
-  - Сокращённые имена свойств и методов в JavaScript.
-  - Глубокое копирование объектов в JavaScript.
-  - Что такое динамически вычисляемое свойство объекта в JavaScript?
-  - Как перебрать все собственные элементы объекта?
-  - Варианты перебора свойств объекта в JS.
-  - Так делать не надо...
-  - Примеры.
+  - [Объекты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JavaScriptObjects.md)
+  - [Методы объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectsWithMethods.md)
+  - [Сокращённые имена свойств и методов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/ShortPropertyAndMethodNamesOnJS.md)
+  - [Глубокое копирование объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DeepCloneObjectsOnJS.md)
+  - [Что такое динамически вычисляемое свойство объекта в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DynamicallyPropertyOfObject.md)
+  - [Как перебрать все собственные элементы объекта?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/CheckObjectOwnElementsExample.md)
+  - [Варианты перебора свойств объекта в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectIterate.md)
+  - [Так делать не надо...](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DoNotDoThisObjectPrototypeModification.md)
+  - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Examples)
 - Функции в JS:
 - Области видимости в JS:
 - Операторы в JS:
