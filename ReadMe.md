@@ -1,10 +1,10 @@
 ### Краткий справочник по JS для начинающих и продолжающих.
 
-- Переменные в JS:
+- **Переменные в JS:**
   - [Переменные и аргументы в JavaScript. ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/VariablesArguments.md)
   - [Как в JS определяют тип переменой?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/JSCheckVariableType.md)
-  - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_1_var/Examples)
-- Объекты в JS:
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_1_var/Examples)
+- **Объекты в JS:**
   - [Объекты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JavaScriptObjects.md)
   - [Методы объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectsWithMethods.md)
   - [Сокращённые имена свойств и методов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/ShortPropertyAndMethodNamesOnJS.md)
@@ -13,8 +13,8 @@
   - [Как перебрать все собственные элементы объекта?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/CheckObjectOwnElementsExample.md)
   - [Варианты перебора свойств объекта в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectIterate.md)
   - [Так делать не надо...](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DoNotDoThisObjectPrototypeModification.md)
-  - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Examples)
-- Функции в JS:
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Examples)
+- **Функции в JS:**
   - [Что такое функция в JavaScript:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/0_Function_on_JS.md)
     - [Именованная функция в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/1_Named_function_%20JavaScript.md)
     - [Функциональное выражение.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/2_Assigned_to_variable_JavaScript.md)
@@ -26,12 +26,12 @@
   - [Что такое параметры функции по умолчанию в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/DefaultFunctionParametersOnJS.md)
   - [Применение глобальной функции setTimeout.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/Global_function_setTimeout.md)
   - [Лучшие практики для написания функций в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/BestPracticeForJavaScriptFunction.md)
-  - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_3_functions/Examples)
-- Области видимости в JS:
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_3_functions/Examples)
+- **Области видимости в JS:**
   - [Области видимости в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/ScopesVisibilityOnJavaScript.md)
   - [Цепочка областей видимости в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/ScopeChainInJavaScript.md)
   - [Применение 'use strict'](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/UseStrict.md)
-  - [Примеры.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_4_visibility_scopes/Examples) 
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_4_visibility_scopes/Examples) 
 - Операторы в JS:
 - Функциональные выражения в JS:
 - Ошибки (исключения) и их обработка в JS:
