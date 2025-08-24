@@ -24,6 +24,7 @@
     - [Функция как свойство объекта.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/5_Function_as_property_value_JavaScript.md)
   - [Правила именования функций в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/NamingFunctionRules.md)
   - [Что такое параметры функции по умолчанию в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/DefaultFunctionParametersOnJS.md)
+  - [Hoisting - "Всплытие"](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/JavaScriptHoisting.md)
   - [Применение глобальной функции setTimeout.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/Global_function_setTimeout.md)
   - [Лучшие практики для написания функций в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/BestPracticeForJavaScriptFunction.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_3_functions/Examples)
@@ -56,6 +57,7 @@
 - Массивы в JS:
 - Деструктуризация в JS:
 - Условные инструкции в JS:
+- Булева логика в JS:
 - Циклы в JS:
 - Модули в JS:
 - Классы и прототипы в JS:
