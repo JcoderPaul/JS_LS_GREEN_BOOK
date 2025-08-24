@@ -1,4 +1,4 @@
-### Краткий справочник по JS для начинающих и продолжающих.
+### Краткий справочник по JS.
 
 - **Переменные в JS:**
   - [Переменные и аргументы в JavaScript. ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/VariablesArguments.md)
@@ -49,7 +49,9 @@
   - [Как программно остановить уже запущенный JavaScript код?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/DOC/StopJavaScriptCode.md)
   - [Как посмотреть структуру объекта в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/DOC/ViewStructureJavaScriptObject.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_6_functional_expressions/Examples) 
-- Ошибки (исключения) и их обработка в JS:
+- **Ошибки (исключения) и их обработка в JS:**
+  - [Ошибки в JavaScript и их обработка.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_7_errors/DOC/ErrorsInJavaScriptAndHandling.md)
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_7_errors/Examples)
 - Выражения и инструкции в JS:
 - Массивы в JS:
 - Деструктуризация в JS:
