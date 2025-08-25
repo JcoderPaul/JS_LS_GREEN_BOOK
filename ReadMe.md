@@ -53,7 +53,10 @@
 - **Ошибки (исключения) и их обработка в JS:**
   - [Ошибки в JavaScript и их обработка.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_7_errors/DOC/ErrorsInJavaScriptAndHandling.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_7_errors/Examples)
-- Выражения и инструкции в JS:
+- **Выражения и инструкции в JS:**
+  - [Выражение в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptExpression.md)
+  - [Инструкция в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptInstructions.md)
+  - [Выражение-инструкция в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptExpressionStatement.md)
 - Массивы в JS:
 - Деструктуризация в JS:
 - Условные инструкции в JS:
