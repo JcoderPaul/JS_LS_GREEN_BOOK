@@ -1,3 +1,5 @@
+#### Объекты в JS:
+
 - [Методы объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectsWithMethods.md)
 - [Сокращённые имена свойств и методов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/ShortPropertyAndMethodNamesOnJS.md)
 - [Глубокое копирование объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DeepCloneObjectsOnJS.md)
