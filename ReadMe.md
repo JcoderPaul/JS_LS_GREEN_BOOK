@@ -7,6 +7,10 @@
 - [**Объекты в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object)
   - [Объекты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JavaScriptObjects.md)
   - [Методы объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectsWithMethods.md)
+    - [Метод Object.entries()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/MethodObjectEntries.md)
+    - [Метод Object.keys()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/MethodObjectKeys.md)
+    - [Метод Object.values()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/MethodObjectValues.md)
+    - [Optional Chaining (?.)](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/OptionalChainingOperator.md)
   - [Сокращённые имена свойств и методов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/ShortPropertyAndMethodNamesOnJS.md)
   - [Глубокое копирование объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DeepCloneObjectsOnJS.md)
   - [Что такое динамически вычисляемое свойство объекта в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DynamicallyPropertyOfObject.md)
@@ -14,6 +18,7 @@
   - [Варианты перебора свойств объекта в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectIterate.md)
   - [Так делать не надо...](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DoNotDoThisObjectPrototypeModification.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Examples)
+  - [**Задачи.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Tasks)
 - **Функции в JS:**
   - [Что такое функция в JavaScript:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/0_Function_on_JS.md)
     - [Именованная функция в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/1_Named_function_%20JavaScript.md)
@@ -73,19 +78,20 @@
     - [Метод массива .at()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JSArraysFunctionAt.md)
     - [Метод массива .fill()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JavaScriptArrayFillMethod.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_9_arrays/Examples)
-- Функции высшего порядка:
+- **Функции высшего порядка:**
   - [Функции высшего порядка в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/HigherOrderFunction.md)
   - [Callback-функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/CallbackFunction.md)
   - [Стрелочные функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/ArrowFunction.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_10_higher_order_functions/Examples)
-- Деструктуризация в JS:
-- Условные инструкции в JS:
-- Булева логика в JS:
-- Циклы в JS:
-- Модули в JS:
-- Классы и прототипы в JS:
-- Промисы (promises) в JS:
-- "Синхронизации", задержки, ожидания (async/await) в JS:
+- **Деструктуризация в JS:**
+- **Условные инструкции в JS:**
+- **Булева логика в JS:**
+- **Циклы в JS:**
+- **Модули в JS:**
+- **Классы и прототипы в JS:**
+- **Промисы (promises) в JS:**
+- **"Синхронизации", задержки, ожидания (async/await) в JS:**
 - Практические задачи:
+  - Strange old games.
   - Задачи и решения.
   - Пояснения и дополнения: 
