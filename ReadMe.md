@@ -1,10 +1,10 @@
 ### Краткий справочник по JS.
 
-- **Переменные в JS:**
+- [**Переменные в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/ReadMe.md)
   - [Переменные и аргументы в JavaScript. ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/VariablesArguments.md)
   - [Как в JS определяют тип переменой?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_1_var/DOC/JSCheckVariableType.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_1_var/Examples)
-- **Объекты в JS:**
+- [**Объекты в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object)
   - [Объекты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JavaScriptObjects.md)
   - [Методы объектов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/JSObjectsWithMethods.md)
   - [Сокращённые имена свойств и методов в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/ShortPropertyAndMethodNamesOnJS.md)
@@ -71,7 +71,13 @@
     - [Метод массива .sort()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/ArraySortFunctionOnJS.md)
     - [Метод массива .flat()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/FlatArraysMethodOnJS.md)
     - [Метод массива .at()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JSArraysFunctionAt.md)
+    - [Метод массива .fill()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JavaScriptArrayFillMethod.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_9_arrays/Examples)
+- Функции высшего порядка:
+  - [Функции высшего порядка в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/HigherOrderFunction.md)
+  - [Callback-функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/CallbackFunction.md)
+  - [Стрелочные функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/ArrowFunction.md)
+  - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_10_higher_order_functions/Examples)
 - Деструктуризация в JS:
 - Условные инструкции в JS:
 - Булева логика в JS:
