@@ -19,7 +19,7 @@
   - [Так делать не надо...](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_2_object/DOC/DoNotDoThisObjectPrototypeModification.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Examples)
   - [**Задачи.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_2_object/Tasks)
-- **Функции в JS:**
+- [**Функции в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_3_functions)
   - [Что такое функция в JavaScript:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/0_Function_on_JS.md)
     - [Именованная функция в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/1_Named_function_%20JavaScript.md)
     - [Функциональное выражение.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/2_Assigned_to_variable_JavaScript.md)
@@ -33,7 +33,7 @@
   - [Применение глобальной функции setTimeout.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/Global_function_setTimeout.md)
   - [Лучшие практики для написания функций в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_3_functions/DOC/BestPracticeForJavaScriptFunction.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_3_functions/Examples)
-- **Области видимости в JS:**
+- [**Области видимости в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_4_visibility_scopes)
   - [Области видимости в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/ScopesVisibilityOnJavaScript.md)
   - [Цепочка областей видимости в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/ScopeChainInJavaScript.md)
   - [Применение 'use strict'](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_4_visibility_scopes/DOC/UseStrict.md)
@@ -89,7 +89,8 @@
   - [Деструктуризация массива.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/DOC/ArrayDestructuringOnJS.md)
   - [Деструктуризация в функциях.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/DOC/DestructuringInFunction.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_11_destructuring/Examples) 
-- **Условные инструкции в JS:**
+- [**Условные инструкции в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_12_conditional_instructions/DOC/JavaScriptConditionalInstructions.md)
+  - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_12_conditional_instructions/Examples)
 - **Булева логика в JS:**
 - **Циклы в JS:**
 - **Модули в JS:**
