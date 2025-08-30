@@ -8,7 +8,7 @@ const [firstName, , , , surname] = userNameWithNick.split(' ');
 console.log(firstName);
 console.log(surname);
 
-/* Объеденим массив в строку */
+/* Объединим массив в строку */
 const strToPrn = arrFromStr.join(' ');
 console.log(strToPrn);
 
