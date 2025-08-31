@@ -45,7 +45,7 @@
   - [Чем в JS отличаются == и ===?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_5_operators/DOC/%D0%A1omplianceAndStrictComplianceOnJS.md)
   - [Spread оператор в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_5_operators/DOC/SpreadOperator.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_5_operators/Examples)
-- **Функциональные выражения в JS:**
+- [**Функциональные выражения в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/ReadMe.md)
   - [Стрелочные функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/DOC/ArrowFunctions.md)
   - [CallBack функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/DOC/CallBackFunctionInJavaScript.md)
   - [Конструкторы а JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_6_functional_expressions/DOC/ConstructorInJavaScript.md)
@@ -101,7 +101,8 @@
     - [split и join;](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/DOC/SplitAndJoin.md)
     - [repeat;](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/DOC/RepeatMethod.md)
   - [**Примеры.** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_13_string/Example)
-- **Булева логика в JS:**
+- [**Булева логика в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_14_boolean_logic/DOC/JavaScriptBooleanLogic.md)
+  - [**Примеры.** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_14_boolean_logic/Examples)
 - **Циклы в JS:**
 - **Классы и прототипы в JS:**
 - **"Синхронизации", задержки, ожидания (async/await) в JS:**
