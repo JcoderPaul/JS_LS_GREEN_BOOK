@@ -62,7 +62,7 @@
   - [Выражение в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptExpression.md)
   - [Инструкция в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptInstructions.md)
   - [Выражение-инструкция в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_8_expressions_and_instructions_only_doc/DOC/JavaScriptExpressionStatement.md)
-- **Массивы в JS:**
+- [**Массивы в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/ReadMe.md)
   - [Массивы в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/ArrayOnJavaScript.md)
     - [Основные методы массивов.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/ArrayBasicMethodsOnJS.md)
     - [Функции высшего порядка массивов.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/ArrayHigherOrderFunctionsPrototype.md)
