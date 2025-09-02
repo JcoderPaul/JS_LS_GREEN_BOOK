@@ -78,7 +78,7 @@
     - [Метод массива .at()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JSArraysFunctionAt.md)
     - [Метод массива .fill()](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_9_arrays/DOC/JavaScriptArrayFillMethod.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_9_arrays/Examples)
-- **Функции высшего порядка:**
+- [**Функции высшего порядка:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/ReadMe.md)
   - [Функции высшего порядка в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/HigherOrderFunction.md)
   - [Callback-функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/CallbackFunction.md)
   - [Стрелочные функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/ArrowFunction.md)
@@ -113,6 +113,20 @@
   - [Применение break и continue в циклах JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_15_cycles/DOC/ContinueAndBreakOnCycle.md)
   - [**Примеры** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_15_cycles/Examples)
 - **Классы и прототипы в JS:**
+  - Примитивы как объекты:
+    - [Что такое классы?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/JavaScriptClasses.md)
+    - [Что такое расширение классов?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/AnotherClassesExtendsOnJavaScript.md)
+    - [Что такое прототипы?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/JavaScriptPrototype.md)
+    - [Что такое цепочка прототипов?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/JavaScriptPrototypeChain.md)
+    - [Проверка принадлежности свойств экземпляру объекта.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/CheckingPropertiesObjectInstance.md)
+    - [Статические методы.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/StaticMethodsOnJavaScript.md)
+  - Важно для понимания:
+    - [Почему JS в VisualStudio может бросать TypeError: Cannot use 'in' operator to search for 'length' in ...](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/VisualStudioThrowsTypeError.md)
+    - [Наследование от Array.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/ImportantToUnderstand/JavaScriptInheritingFromArray.md)
+    - [Почему в примере - myCustomArr.hasOwnProperty("sum") возвращает false.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/ImportantToUnderstand/OwnPropertyFalse.md)
+    - [Почему в примере - myCustomArr.hasOwnProperty("length") возвращает true.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/ImportantToUnderstand/OwnPropertyTrue.md)
+    - [Немного о методе reduce.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/ImportantToUnderstand/ReduceMethod.md)
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_16_classes_and_prototype/Examples)
 - **"Синхронизации", задержки, ожидания (async/await) в JS:**
 - **Модули в JS:**
 - **Промисы (promises) в JS:**
@@ -120,5 +134,6 @@
 - **DOM API (Document Object Model)**
 - Практические задачи:
   - Strange old games.
-  - Задачи и решения.
+  - Tasks and solution.
+  - Little project for next step.
   - Пояснения и дополнения: 
