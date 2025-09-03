@@ -83,7 +83,7 @@
   - [Callback-функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/CallbackFunction.md)
   - [Стрелочные функции в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_10_higher_order_functions/DOC/ArrowFunction.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_10_higher_order_functions/Examples)
-- **Деструктуризация в JS:**
+- [**Деструктуризация в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/ReadMe.md)
   - [Функция деструктуризации.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/DOC/JavaScriptDestructuringFun.md)
   - [Дестуктуризация объектов.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/DOC/DestructuringObjectOnJavaScript.md)
   - [Деструктуризация массива.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_11_destructuring/DOC/ArrayDestructuringOnJS.md)
@@ -128,6 +128,9 @@
     - [Немного о методе reduce.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_16_classes_and_prototype/DOC/ImportantToUnderstand/ReduceMethod.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_16_classes_and_prototype/Examples)
 - **"Синхронизации", задержки, ожидания (async/await) в JS:**
+  - [Что такое async/await?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_17_async_await/DOC/PromisesAsyncAwaitFunction.md)
+  - [Примеры использования async/await](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_17_async_await/DOC/JSAsyncAawaitFunctionExample.md)
+  - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_17_async_await/Examples)
 - **Модули в JS:**
 - **Промисы (promises) в JS:**
 - **Еще раз о EOL, this и т.д.**
