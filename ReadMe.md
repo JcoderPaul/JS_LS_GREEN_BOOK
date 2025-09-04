@@ -91,7 +91,7 @@
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_11_destructuring/Examples) 
 - [**Условные инструкции в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_12_conditional_instructions/DOC/JavaScriptConditionalInstructions.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_12_conditional_instructions/Examples)
-- **Строки и работа с ними в JS:** 
+- [**Строки и работа с ними в JS:** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/ReadMe.md)
   - [Строки и их методы:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/DOC/StringOnJavaScript.md)
     - [trim, trimStart (trimLeft) и trimEnd (trimRight);](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/DOC/TrimMethodsFamily.md)
     - [includes, indexOf, startsWith и endsWith;](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_13_string/DOC/IncludesMethodsFamily.md)
@@ -131,7 +131,9 @@
   - [Что такое async/await?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_17_async_await/DOC/PromisesAsyncAwaitFunction.md)
   - [Примеры использования async/await](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_17_async_await/DOC/JSAsyncAawaitFunctionExample.md)
   - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_17_async_await/Examples)
-- **Модули в JS:**
+- [**Модули в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_18_modules/ReadMe.md)
+  - [Что такое модули в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_18_modules/DOC/JavaScriptModules.md)
+  - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_18_modules/Examples)
 - **Промисы (promises) в JS:**
 - **Еще раз о EOL, this и т.д.**
 - **DOM API (Document Object Model)**
