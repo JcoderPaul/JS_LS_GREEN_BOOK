@@ -103,7 +103,7 @@
   - [**Примеры.** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_13_string/Example)
 - [**Булева логика в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_14_boolean_logic/DOC/JavaScriptBooleanLogic.md)
   - [**Примеры.** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_14_boolean_logic/Examples)
-- **Циклы в JS:**
+- [**Циклы в JS:**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_15_cycles/ReadMe.md)
   - [Виды циклов в JavaScript:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_15_cycles/DOC/JavaScriptCycles.md)
     - [for](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_15_cycles/DOC/Js_For_Cycle.md)
     - [for...in](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_15_cycles/DOC/Js_For_In_Cycle.md)
@@ -135,6 +135,15 @@
   - [Что такое модули в JavaScript?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_18_modules/DOC/JavaScriptModules.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_18_modules/Examples)
 - **Промисы (promises) в JS:**
+  - [Promises в JavaScript:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/JavaScriptPromises.md)
+    - [Чуть подробнее о Promises](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/SyntaxJSPromises.md)
+    - [Три состояния Promises](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/ThreePromisesStates.md)
+    - [Создание обычного Promise в JavaScript по шагам](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/JSPromisStepByStep.md)
+    - [Примеры использования Promises](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/SimpleExampleForStudies.md)
+  - [Promises как обычная функция](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/JavaScriptOnlyFunPromises.md)
+  - [Метод Promise.all](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/PromiseAll.md)
+  - [Функция fetch](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/JavaScriptFetchFunction.md)
+  - [**Примеры** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_19_promises/Examples)
 - **Еще раз о EOL, this и т.д.**
 - **DOM API (Document Object Model)**
 - Практические задачи:
