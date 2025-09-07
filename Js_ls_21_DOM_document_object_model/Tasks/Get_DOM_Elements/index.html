@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../../Examples/css/styles.css" />
+  </head>
+  <body style="background-color: #ffffff; text-align: center">
+    <img src="../../Examples/img/logo.svg" alt="" />
+    
+    <div class="panel">It is training day!</div>
+
+    <input class="input" onkeydown="changeKeyboardInput(event)"/>
+    <button class="button" onclick="submitFormByClick()">Press after entering text</button>
+
+    <div class="notification">You did it!</div>
+    <div class="recommendation_display recommendation">Enter text for change!</div>
+
+    <div class="one"><span>Element 1</span></div>
+    <div class="one"><span>Element 2</span></div>
+    <div id="two">Element 3</div>
+    <div><span userId="4">Element 4</span></div>
+
+    <script src="./get_dom_elements.js"></script>
+  </body>
+</html>
