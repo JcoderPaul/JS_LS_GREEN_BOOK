@@ -1,0 +1,70 @@
+.panel {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: rgb(15, 79, 197);
+	background: rgba(255,255,255,0.05);
+	border-color: rgb(14, 38, 224);
+	border: 1px solid;
+	border-radius: 10px;
+	padding: 40px;
+	margin-bottom: 20px;
+}
+
+.notification {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: rgb(15, 79, 197);
+	margin: 20px;
+	display: none; /* Пусть 'на старте' он не отображается - скрытый */
+}
+
+.notification_active {
+	display: block; /* При совершении неких действий он отобразится */
+}
+
+.recommendation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: rgb(15, 79, 197);
+	margin: 20px;
+	display: none; 
+}
+
+.recommendation_display {
+	display: block;
+}
+
+.button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	cursor: pointer;
+	transition: all .2s;
+	text-align: center;
+	border-radius: 10px;
+	background: #050b7f;
+	color: white;
+	border: none;
+	padding: 20px 40px;
+}
+
+.button:hover {
+	background-color: #1748c4;
+}
+
+.input {
+	box-sizing: border-box;
+	padding: 15px 16px;
+	color: rgb(15, 79, 197);
+	border: 1px solid rgba(212, 212, 212, 0.05);
+	border-color: rgb(14, 38, 224);
+	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.05);
+	height: 56px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 21px;
+	outline: none;
+	box-shadow: none;
+}
