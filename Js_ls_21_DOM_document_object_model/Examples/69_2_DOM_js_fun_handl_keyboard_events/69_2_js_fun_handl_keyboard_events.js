@@ -18,7 +18,7 @@ function changeMouseClick(){
 }
 
 /* 
-Слушатель нажатия клавишь, чтобы он сработал дополним строку: 
+Слушатель нажатия клавиш, чтобы он сработал дополним строку:
 <input class="input" /> в index.html атрибутом 'onkeydown'  
 */
 function changeKeyboardInput(event) {
