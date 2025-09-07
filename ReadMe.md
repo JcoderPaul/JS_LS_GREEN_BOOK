@@ -146,7 +146,7 @@
   - [Метод Promise.all](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/PromiseAll.md)
   - [Функция fetch](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_19_promises/DOC/JavaScriptFetchFunction.md)
   - [**Примеры** ](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_19_promises/Examples)
-- **Еще раз о EOL, this и т.д.**
+- [**Еще раз о EOL, this и т.д.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/ReadMe.md)
   - [this - контекст выполнения функции:](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/DOC/ManipulationOfThis.md)
     - [Метод call в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/DOC/JSCallMethod.md)
     - [Метод bind в JavaScript](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/DOC/JSBindMethod.md)
