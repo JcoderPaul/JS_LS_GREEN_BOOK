@@ -4,7 +4,7 @@ document.querySelector('.input').value = 'Input your text';
 
 /* 
 Давайте сделаем так, чтобы при нажатии на кнопки 
-текст из заполненной формы перешол в текстовую 
+текст из заполненной формы перешел в текстовую
 панель между формой и логотипом.
 */
 
@@ -36,7 +36,7 @@ document.querySelector('.button').addEventListener('click', function(){
         document.querySelector('.panel').innerText = input;
         /* 
         В нашем index.html есть <input class="input" /> - форма ввода с которой мы работаем
-        Очистим форму ввода, чтобы после каждого нажатия она преобретала первозданный вид. 
+        Очистим форму ввода, чтобы после каждого нажатия она приобретала первозданный вид.
         */
         document.querySelector('.input').value = 'Input your text';
 });
