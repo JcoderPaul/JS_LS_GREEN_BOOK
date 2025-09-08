@@ -160,7 +160,7 @@
   - [Замыкания](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/DOC/ClosuresOnJavaScript.md)
   - [Глубокое клонирование (deep cloning)](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_20_litle_more_about_this_EOL_etc/DOC/DeepCloningObjectAgain.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_20_litle_more_about_this_EOL_etc/Examples)
-- **DOM API (Document Object Model)**
+- [**DOM API (Document Object Model)**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_21_DOM_document_object_model/ReadMe.md)
   - [Document Object Model.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_21_DOM_document_object_model/DOC/DocumentObjectModelShort.md)
   - [Что такое DOM API?](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_21_DOM_document_object_model/DOC/DOM_MoreDetails.md)
   - Объект Event:
@@ -187,6 +187,11 @@
     - [Использование Live Server (help).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_21_DOM_document_object_model/HELP/help.md)
     - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_21_DOM_document_object_model/Examples)
     - [Tasks](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_21_DOM_document_object_model/Tasks/Get_DOM_Elements)
+- **Объект веб-хранилища localStorage**
+  - [Механизм браузерного веб-хранилища Local Storage.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_22_Local_Storage/DOC/LocalStorage.md)
+  - [Формат обмена данными JSON (JavaScript Object Notation).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_22_Local_Storage/DOC/JSON_Object.md)
+  - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Examples)
+  - *[*Задачи**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Task)
 - Практические задачи:
   - Strange old games.
   - Tasks and solutions.
