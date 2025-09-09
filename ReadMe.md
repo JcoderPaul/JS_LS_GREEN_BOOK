@@ -193,7 +193,7 @@
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Examples)
   - [**Задачи**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Task)
 - Практические задачи:
-  - Strange old games.
+  - [Strange old games.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_games)
   - Tasks and solutions.
   - Little project for next step.
   - Пояснения и дополнения: 
