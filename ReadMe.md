@@ -187,11 +187,11 @@
     - [Использование Live Server (help).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_21_DOM_document_object_model/HELP/help.md)
     - [**Примеры.**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_21_DOM_document_object_model/Examples)
     - [Tasks](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_21_DOM_document_object_model/Tasks/Get_DOM_Elements)
-- **Объект веб-хранилища localStorage**
+-[ **Объект веб-хранилища localStorage**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_22_Local_Storage/ReadMe.md)
   - [Механизм браузерного веб-хранилища Local Storage.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_22_Local_Storage/DOC/LocalStorage.md)
   - [Формат обмена данными JSON (JavaScript Object Notation).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_22_Local_Storage/DOC/JSON_Object.md)
   - [**Примеры**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Examples)
-  - *[*Задачи**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Task)
+  - [**Задачи**](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_22_Local_Storage/Task)
 - Практические задачи:
   - Strange old games.
   - Tasks and solutions.
