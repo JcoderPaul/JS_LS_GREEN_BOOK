@@ -1,23 +1,23 @@
 #### Содержание:
 
-- [Бинарные операторы в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/BinaryOperators/JavaScriptBinaryOperators.md)
-- [Еще раз о выражениях и инструкциях.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/ExpressionAndStatement/ExpressionAndStatementInJS.md)
+- [Бинарные операторы в JS.](./BinaryOperators/JavaScriptBinaryOperators.md)
+- [Еще раз о выражениях и инструкциях.](./ExpressionAndStatement/ExpressionAndStatementInJS.md)
 ---
-- [Переменные и функции даты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/DateTimeAPI/JavaScriptDateAPI.md)
-- [Функция **setInterval** в JS (пример счетчика и обновления данных с сервера по таймеру).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptSetInterval.md)
-- [Функция **clearInterval** в JS (пример таймера с прогресс-баром).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptClearInterval.md)
-- [Функция **setTimeout** в JS (примеры задачи со всплывающим уведомлением).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptSetTimeout.md)
-- [Еще раз о работе со временем в JS (пример таймера).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/DateTimeAPI/TimeOnJS.md)
+- [Переменные и функции даты в JavaScript.](./DateTimeAPI/JavaScriptDateAPI.md)
+- [Функция **setInterval** в JS (пример счетчика и обновления данных с сервера по таймеру).](./TimeFunction/JavaScriptSetInterval.md)
+- [Функция **clearInterval** в JS (пример таймера с прогресс-баром).](./TimeFunction/JavaScriptClearInterval.md)
+- [Функция **setTimeout** в JS (примеры задачи со всплывающим уведомлением).](./TimeFunction/JavaScriptSetTimeout.md)
+- [Еще раз о работе со временем в JS (пример таймера).](./DateTimeAPI/TimeOnJS.md)
 ---
-- [Ассоциативность операторов в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/CheckOperatorAssociativity.md)
-- [Еще раз о приоритетах и ассоциативности в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/PrecedenceAssociativityInJS.md)
-- [Оператор остатка от деления (`%`).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/PriorityAssociativityRemainderOperator.md)
+- [Ассоциативность операторов в JS.](./PriorityAndAssociativity/CheckOperatorAssociativity.md)
+- [Еще раз о приоритетах и ассоциативности в JavaScript.](./PriorityAndAssociativity/PrecedenceAssociativityInJS.md)
+- [Оператор остатка от деления (`%`).](./PriorityAndAssociativity/PriorityAssociativityRemainderOperator.md)
 ---
-- [Генерация случайного числа в JavaScript (примеры задач и их решения).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RandomNumberGenerator/JSRandomNumGen.md)
+- [Генерация случайного числа в JavaScript (примеры задач и их решения).](./RandomNumberGenerator/JSRandomNumGen.md)
 ---
-- [Оператор rest в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/JavaScriptRestOperator.md)
-- [Оператор spread в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/SpredOperatorOnJavaScript.md)
-- [Отличия rest оператор от spread оператора в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/DifferenceBetweenRestAndSpredOperatorOnJS.md)
+- [Оператор rest в JavaScript.](./RestAndSpredOperatorsOnJS/JavaScriptRestOperator.md)
+- [Оператор spread в JavaScript.](./RestAndSpredOperatorsOnJS/SpreadOperatorOnJavaScript.md)
+- [Отличия rest оператор от spread оператора в JS.](./RestAndSpredOperatorsOnJS/DifferenceBetweenRestAndSpredOperatorOnJS.md)
 ---
 - [Пояснения к задаче 55 (min и max в массиве).](./55_Task_Explanations/55_Task_extra_explanations.md)
 - Пояснения к задаче 56:
