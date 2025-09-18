@@ -1,0 +1,37 @@
+#### Содержание:
+
+- [Бинарные операторы в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/BinaryOperators/JavaScriptBinaryOperators.md)
+- [Еще раз о выражениях и инструкциях.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/ExpressionAndStatement/ExpressionAndStatementInJS.md)
+---
+- [Переменные и функции даты в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/DateTimeAPI/JavaScriptDateAPI.md)
+- [Функция **setInterval** в JS (пример счетчика и обновления данных с сервера по таймеру).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptSetInterval.md)
+- [Функция **clearInterval** в JS (пример таймера с прогресс-баром).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptClearInterval.md)
+- [Функция **setTimeout** в JS (примеры задачи со всплывающим уведомлением).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/TimeFunction/JavaScriptSetTimeout.md)
+- [Еще раз о работе со временем в JS (пример таймера).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/DateTimeAPI/TimeOnJS.md)
+---
+- [Ассоциативность операторов в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/CheckOperatorAssociativity.md)
+- [Еще раз о приоритетах и ассоциативности в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/PrecedenceAssociativityInJS.md)
+- [Оператор остатка от деления (`%`).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/PriorityAndAssociativity/PriorityAssociativityRemainderOperator.md)
+---
+- [Генерация случайного числа в JavaScript (примеры задач и их решения).](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RandomNumberGenerator/JSRandomNumGen.md)
+---
+- [Оператор rest в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/JavaScriptRestOperator.md)
+- [Оператор spread в JavaScript.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/SpredOperatorOnJavaScript.md)
+- [Отличия rest оператор от spread оператора в JS.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/blob/master/Js_ls_tasks/DOC/RestAndSpredOperatorsOnJS/DifferenceBetweenRestAndSpredOperatorOnJS.md)
+---
+- [Пояснения к задаче 55 (min и max в массиве).](./55_Task_Explanations/55_Task_extra_explanations.md)
+- Пояснения к задаче 56:
+  - [Подробный разбор задачи по деструктуризации объекта.](./56_Task_Explanations/56_Task_extra_explanations.md)
+  - Область видимости функции при деструктуризации.
+- Пояснения к задаче 60 (наследование).
+- Пояснения к задаче 61:
+  - Объект `arguments` в JS.
+  - Подробный разбор задачи с псевдомассивом `arguments`.
+- Пояснения к задаче 62 (варианты объявления функций).
+- Пояснения к задаче 63 (области видимости, пошаговое решение задачи без запуска кода).
+- Пояснения к задаче 64 (Hoisting в JS).
+- Пояснения к задаче 75 (разбор одного из вариантов решения).
+- Пояснения к задаче 77 (подробный разбор решения).
+- Пояснения к задаче 78 (подробный разбор решения).
+- Пояснения к задаче 79 (подробный разбор решения).
+- Пояснения к задаче 80 (подробный разбор решения).
