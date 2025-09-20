@@ -195,5 +195,5 @@
 - Практические задачи:
   - [Strange old games.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_games)
   - [Tasks and solutions.](https://github.com/JcoderPaul/JS_LS_GREEN_BOOK/tree/master/Js_ls_tasks/TasksAndSolutions)
-  - Пояснения и дополнения:
+  - [Пояснения и дополнения к задачам.](./Js_ls_tasks/DOC)
   - Little project for next step.
