@@ -1,4 +1,4 @@
-#### Содержание:
+#### Содержание (пояснения и дополнения):
 
 - [Бинарные операторы в JS.](./BinaryOperators/JavaScriptBinaryOperators.md)
 - [Еще раз о выражениях и инструкциях.](./ExpressionAndStatement/ExpressionAndStatementInJS.md)
@@ -22,16 +22,16 @@
 - [Пояснения к задаче 55 (min и max в массиве).](./55_Task_Explanations/55_Task_extra_explanations.md)
 - Пояснения к задаче 56:
   - [Подробный разбор задачи по деструктуризации объекта.](./56_Task_Explanations/56_Task_extra_explanations.md)
-  - Область видимости функции при деструктуризации.
-- Пояснения к задаче 60 (наследование).
+  - [Область видимости функции при деструктуризации.](./56_Task_Explanations/56_Task_visibility_scopes.md)
+- [Пояснения к задаче 60 (наследование).](./60_Task_Explanations/60_Task_extend_inheritance_explanations.md)
 - Пояснения к задаче 61:
-  - Объект `arguments` в JS.
-  - Подробный разбор задачи с псевдомассивом `arguments`.
-- Пояснения к задаче 62 (варианты объявления функций).
-- Пояснения к задаче 63 (области видимости, пошаговое решение задачи без запуска кода).
-- Пояснения к задаче 64 (Hoisting в JS).
-- Пояснения к задаче 75 (разбор одного из вариантов решения).
-- Пояснения к задаче 77 (подробный разбор решения).
-- Пояснения к задаче 78 (подробный разбор решения).
-- Пояснения к задаче 79 (подробный разбор решения).
-- Пояснения к задаче 80 (подробный разбор решения).
+  - [Объект `arguments` в JS.](./61_Task_Explanations/61_Task_extra_explanations.md)
+  - [Подробный разбор задачи с псевдомассивом `arguments`.](./61_Task_Explanations/JavaScriptArgumentsObject.md)
+- [Пояснения к задаче 62 (варианты объявления функций).](./62_Task_Explanations/DifferenceBetweenFunctionDeclarations.md)
+- [Пояснения к задаче 63 (области видимости, пошаговое решение задачи без запуска кода).](./63_Task_Explanations/63_Task_ExplainLogicHappening.md)
+- [Пояснения к задаче 64 (Hoisting в JS).](./64_Task_Explanations/HoistingOnJS.md)
+- [Пояснения к задаче 75 (разбор одного из вариантов решения).](./75_Task_Explanations/75_Task_extra_explanations.md)
+- [Пояснения к задаче 77 (подробный разбор решения).](./77_Task_Explanations/77_Task_extra_explanations.md)
+- [Пояснения к задаче 78 (подробный разбор решения).](./78_Task_Explanations/78_Task_extra_explanations.md)
+- [Пояснения к задаче 79 (подробный разбор решения).](./79_Task_Explanations/79_Task_extra_explanations.md)
+- [Пояснения к задаче 80 (подробный разбор решения).](./80_Task_Explanations/80_Task_extra_explanations.md)
